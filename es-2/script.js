@@ -13,11 +13,6 @@ arrayObj.forEach(element => {
     element.age = getRndInteger(3,50);
 });
 
-for (let i = 0; i < arrayObj.length; i++) {
-    const element = arrayObj[i];
-    element[i].name           
-    
-}
 
 
 console.log(arrayObj);
